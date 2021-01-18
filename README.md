@@ -1,5 +1,5 @@
 # Web-Path-BruteForcer-cURL
-#### A simple Web Path Brutforcer using C++ Request: [cURL](https://github.com/whoshuu/cpr) for People wrapper built on top of [libcurl](https://curl.se/libcurl/). 
+#### A simple Web Path Bruteforcer using C++ Request: [cURL](https://github.com/whoshuu/cpr) for People wrapper built on top of [libcurl](https://curl.se/libcurl/). 
 
 ## Usage:
 
